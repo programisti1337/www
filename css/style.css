@@ -1,0 +1,87 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.spisok{
+    display: flex;
+    list-style: none;
+    font-weight: 700;
+    color: #697CA6;
+    justify-content: space-between;
+    margin-left: 216px;
+
+}
+.nav1 {
+    display: flex;
+    justify-content: start;
+    align-items: center;   
+    
+}
+.Home{
+    font-weight: 700;
+    color: #5E81FE;
+}
+.logo{   
+  background: #5E81FE;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  margin-left: 50px;
+}    
+
+.li {
+    padding-left: 50px;
+}
+a {
+    color: #697CA6;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5E81FE;
+}
+.logos{
+    padding-right: 30px;
+}
+.plan{
+    text-align: center;
+ 
+    font-size: 15px;
+    color: #3D4F9F;
+}
+.inc{
+    text-align: center;
+    margin-top: 45px;
+    font-size: 48px;
+    color: #3D4F9F;
+}
+.brut{
+    text-align: center;
+    font-size: 15px;
+    color: #3D4F9F;
+
+}
+.play{
+    margin-left: 880px;
+    color: #3D4F9F;
+}
+.heron{
+    margin-top: 20px;
+}
+
+
+.bg {
+    background-image: url("../img/hero image.jpg");
+    background-size: cover;
+    height: 800px;
+}
+.brands{
+    padding-left: 650px;
+}
+.buck{
+    
+}
